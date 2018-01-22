@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitcoin Cash/ViewController3.swift"
+            timestampString = "535505034.837195"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitcoin_Cash.ViewController3.__deallocating_deinit"
+                  moduleName = "Bitcoin Cash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carter/Desktop/Xcode%20Projects/Bitcoin%20Cash/Bitcoin%20Cash/ViewController3.swift"
+                  timestampString = "535505037.406075"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitcoin_Cash.ViewController3.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Bitcoin_Cash.ViewController3"
+                  moduleName = "Bitcoin Cash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carter/Desktop/Xcode%20Projects/Bitcoin%20Cash/Bitcoin%20Cash/ViewController3.swift"
+                  timestampString = "535505037.407554"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitcoin_Cash.ViewController3.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Bitcoin_Cash.ViewController3"
+                  moduleName = "Bitcoin Cash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carter/Desktop/Xcode%20Projects/Bitcoin%20Cash/Bitcoin%20Cash/ViewController3.swift"
+                  timestampString = "535505037.409211"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitcoin_Cash.ViewController3.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Bitcoin_Cash.ViewController3&gt;"
+                  moduleName = "Bitcoin Cash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carter/Desktop/Xcode%20Projects/Bitcoin%20Cash/Bitcoin%20Cash/ViewController3.swift"
+                  timestampString = "535505037.410634"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitcoin_Cash.ViewController3.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Bitcoin_Cash.ViewController3&gt;"
+                  moduleName = "Bitcoin Cash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carter/Desktop/Xcode%20Projects/Bitcoin%20Cash/Bitcoin%20Cash/ViewController3.swift"
+                  timestampString = "535505037.411978"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
